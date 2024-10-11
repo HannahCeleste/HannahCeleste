@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how to simulate astrophysical events**
 
-- 📝 I regularly write articles on [Computational Codes](Computational Codes)
+- 📝 I regularly write articles on [Computational Codes]
 
 - 💬 Ask me about **String theory**
 
