@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hannahceleste" alt="hannahceleste" /></a> </p>
 
-- 🌱 I’m currently learning ** how to simulate astrophysical events**
+- 🌱 I’m currently learning **how to simulate astrophysical events**
 
 - 📝 I regularly write articles on [Computational Codes](Computational Codes)
 
